@@ -1,7 +1,7 @@
 # Differential Privacy for Gaussian Processes
 
-## paper maybe : https://arxiv.org/pdf/1606.00720.pdf
-## or: https://pmpml.github.io/PMPML16/papers/PMPML16_paper_4.pdf
+### paper maybe : https://arxiv.org/pdf/1606.00720.pdf
+### or: https://pmpml.github.io/PMPML16/papers/PMPML16_paper_4.pdf 。（by WT）
 
 ## Installation
 
